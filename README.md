@@ -1,0 +1,1 @@
+# Automated-Answer-Grading-System-Using-EasyOCR-and-Semantic-Similarity
