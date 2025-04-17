@@ -2,7 +2,7 @@ Here's the full, properly formatted README text including implementation steps, 
 
 ---
 
-# Automated Grading System using OCR
+# Automated Grading System using EasyOCR and Semantic Similarity
 
 ## Project Overview
 
